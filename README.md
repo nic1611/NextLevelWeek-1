@@ -1,5 +1,4 @@
 <h4 align="center">
-<img src=".github/logo.png" width="250px" /><br>
  <b>Coleta de resíduos orgânicos e inorgânicos</b> ♻️🔋
 </h4>
 
@@ -35,14 +34,6 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
 
-### 💻 Demo Web
-
-[Visite o site](https://ecoleta-oficial.netlify.app/)
-
-### 📱 App
-
-[Download para Android](https://github.com/ialexanderbrito/ecoleta/releases/tag/1.0.0)
-
 ### 💻 Projeto
 
 <b>Ecoleta</b> é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
@@ -71,7 +62,7 @@ E também será preciso um editor, eu indico o <b>[VSCode](https://code.visualst
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/ecoleta
+$ git clone https://github.com/nic1611/NextLevelWeek-1
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd ecoleta
@@ -92,7 +83,7 @@ $ npm run dev:server ou yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/ecoleta
+$ git clone https://github.com/nic1611/NextLevelWeek-1
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd ecoleta
